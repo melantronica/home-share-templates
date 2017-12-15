@@ -1,0 +1,7 @@
+# common excludes
+build
+lib/*
+bin/*
+
+tags
+cscope.out
